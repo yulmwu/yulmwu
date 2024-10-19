@@ -2,6 +2,6 @@
 
 ## Hi there 👋
 
-![pedalboard](pedalboard.png)
+<img src="pedalboard.png" width="70%" alt="pedalboard"/>
 
 </div>
