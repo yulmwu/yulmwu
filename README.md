@@ -7,7 +7,7 @@
 </div>
 
 <details>
-<summary>More</summary>
+<summary><h4>More</h4></summary>
 
 ```
 안녕하세요
