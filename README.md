@@ -11,7 +11,10 @@
   <a href="github.com/yulmwu"><img src="pic.jpg" width="15%" alt="image"/></a>
 
 ```
-반갑습니다. 궁금한건 연락 주세요~~
+반갑습니다. MBTI는 첫 검사때 부터 INFJ입니다.
+여자친구 없습니다..
+
+궁금한건 연락 주세요~~
 
 https://asked.kr/yulmwu
 ```
