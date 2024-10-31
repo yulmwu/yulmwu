@@ -8,7 +8,7 @@
 
 <details>
   <summary><h4>소개합니다</h4> <h6>(접기/펼치기)</h6></summary>
-  <img src="pic.jpg" width="15%" alt="image"/>
+  <a href="github.com/yulmwu"><img src="pic.jpg" width="15%" alt="image"/></a>
 
 ```
 반갑습니다. 궁금한건 연락 주세요~~
