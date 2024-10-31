@@ -15,7 +15,7 @@
 https://asked.kr/yulmwu
 ```
 </details>
-<details>
+<details open>
   <summary><h4>프로젝트/자격증 📘</h4> <h6>(접기/펼치기)</h6></summary>
   <h4>□  프로젝트</h4>
 
