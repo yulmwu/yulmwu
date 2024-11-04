@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="pedalboard.png" width="60%" alt="pedalboard"/>
-</div>
-
 <details>
   <summary><h4>소개합니다 👋</h4> <h6>(접기/펼치기)</h6></summary>
-  <a href="github.com/yulmwu"><img src="p.png" width="20%" alt="image"/></a>
+  <div align="center">
+    <img src="pedalboard.png" width="60%" alt="pedalboard"/>
+  </div>
+  <hr />
+  <a href="https://github.com/yulmwu"><img src="p.png" width="20%" alt="image"/></a>
 
 ```
 MBTI: INFJ
