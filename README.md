@@ -4,13 +4,12 @@
 
 <details>
   <summary><h4>소개합니다 👋</h4> <h6>(접기/펼치기)</h6></summary>
-  <a href="github.com/yulmwu"><img src="pic.jpg" width="15%" alt="image"/></a>
+  <a href="github.com/yulmwu"><img src="./무제.png" width="15%" alt="image"/></a>
 
 ```
-반갑습니다. MBTI는 첫 검사때 부터 INFJ입니다.
-궁금한건 연락 주세요~~
+MBTI: INFJ
 
-https://asked.kr/yulmwu
+질문: https://asked.kr/yulmwu
 ```
 </details>
 <details open>
