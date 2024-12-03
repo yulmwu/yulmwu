@@ -1,19 +1,22 @@
-<details>
-  <summary><h4>소개합니다 👋</h4> <h6>(접기/펼치기)</h6></summary>
+<details open>
+  <summary><h2>👋</h2> <h6>(접기/펼치기)</h6></summary>
   <div align="center">
-    <img src="pedalboard.png" width="60%" alt="pedalboard"/>
+    <img src="1204.png" width="50%" alt="pedalboard"/>
   </div>
   <hr />
-  <a href="https://github.com/yulmwu"><img src="p.png" width="20%" alt="image"/></a>
+  <a href="https://github.com/yulmwu"><img src="pic.jpg" width="10%" alt="image"/></a>
 
 ```
 MBTI: INFJ
 
-질문: https://asked.kr/yulmwu
+문의는 디스코드로 ==> @rlawnsdud
 ```
+
+---
+
 </details>
 <details open>
-  <summary><h4>프로젝트/자격증 📘</h4> <h6>(접기/펼치기)</h6></summary>
+  <summary><h2>프로젝트/자격증 📘</h2> <h6>(접기/펼치기)</h6></summary>
   <h4>□  프로젝트</h4>
 
   * **6502 Emulator** [[Source](https://github.com/yulmwu/6502)]
