@@ -1,10 +1,10 @@
 <details open>
   <summary><h2>👋</h2> <h6>(접기/펼치기)</h6></summary>
   <div align="center">
-    <img src="1204.png" width="50%" alt="pedalboard"/>
+    <img src="pig2.jpg" width="50%" alt="pedalboard"/>
   </div>
   <hr />
-  <a href="https://github.com/yulmwu"><img src="pic2.jpg" width="10%" alt="image"/></a>
+  <a href="https://github.com/yulmwu"><img src="pic1.jpg" width="10%" alt="image"/></a>
 
 ```
 MBTI: INFJ
