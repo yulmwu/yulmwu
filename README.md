@@ -4,8 +4,7 @@
 </div>
 -->
 
-<details open>
-  <summary><h2>👋</h2> <h6>(click)</h6></summary>
+<h2>👋</h2>
 
 ```yml
 mbti: INFJ
