@@ -6,7 +6,6 @@
 
 <details open>
   <summary><h2>👋</h2> <h6>(접기/펼치기)</h6></summary>
-  <a href="https://github.com/yulmwu"><img src="pic.jpg" width="10%" alt="image"/></a>
 
 ```
 MBTI: INFJ
