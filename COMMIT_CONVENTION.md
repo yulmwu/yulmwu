@@ -33,3 +33,32 @@ feat: add rate limit to login API
 Closes #123
 Refs #456
 ```
+
+## `commitlint.config.js`
+
+```js
+module.exports = {
+    parserPreset: {
+        parserOpts: {
+            headerPattern: /^([a-z]+)(\([a-z0-9-]+\))?: ([a-zA-Z0-9][a-zA-Z0-9 -]{0,49})$/,
+            headerCorrespondence: ['type', 'scope', 'subject'],
+        },
+    },
+
+    rules: {
+        'type-enum': [
+            2,
+            'always',
+            ['feat', 'fix', 'docs', 'style', 'refactor', 'test', 'chore', 'perf', 'ci', 'build', 'revert'],
+        ],
+        'type-empty': [2, 'never'],
+        'scope-case': [2, 'always', 'lower-case'],
+        'subject-empty': [2, 'never'],
+        'subject-case': [2, 'always', ['lower-case']],
+        'subject-full-stop': [2, 'never', '.'],
+        'subject-max-length': [2, 'always', 50],
+        'body-max-line-length': [2, 'always', 72],
+        'footer-max-line-length': [2, 'always', 72],
+    },
+}
+```
