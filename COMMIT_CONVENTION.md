@@ -1,3 +1,5 @@
+## Convention
+
 ```
 <type>(<scope?>): <subject>
 
@@ -11,6 +13,8 @@
 - `<subject>`: use imperative sentences, avoid periods, lowercase the first letter, limit to 50 characters and english only.
 - `<body>` (Optional): within 72 characters per line, focusing on "What" and "Why", and "How" explained by the source code.
 - `<footer>` (Optional): issue tracking, etc.
+
+## Examples
 
 ```
 feat(order): support bulk checkout
