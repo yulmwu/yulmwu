@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <a href="https://swua.kr">Homepage</a> | <b>Github</b> | <a href="https://linkedin.com/in/yulmwu">Linkedin</a> | <a href="mailto:normal8781@gmail.com">Email</a>
+  <a href="https://swua.kr">Homepage</a> | <b>Github</b> | <a href="https://linkedin.com/in/yulmwu">Linkedin</a> | <a href="mailto:me@swua.kr">Email</a>
 </div>
 
 <br />
