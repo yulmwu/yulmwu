@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <a href="https://swua.kr">Homepage</a> | Github | <a href="https://linkedin.com/in/yulmwu">Linkedin</a> | <a href="https://articles.swua.kr">Blog</a> | <a href="mailto:me@swua.kr">Email</a>
+  <a href="https://swua.kr">Biography</a> | Github | <a href="https://linkedin.com/in/yulmwu">Linkedin</a> | <a href="https://articles.swua.kr">Blog</a>
 </div>
 
 <br />
