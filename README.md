@@ -1,5 +1,5 @@
-- 前 세명컴퓨터고등학교 스마트보안솔루션과 학과 대표
-- 現 세명컴퓨터고등학교 Cloud/DevOps 전공동아리 [Null4U](https://github.com/nullforu) 부장
+- Former / Department of Smart Security Solution(스마트보안솔루션과), Semyung Computer High School
+- Incumbent / Club President, Null4U(Cloud Computing/DevOps Major Club), Semyung Computer High School
 
 <br />
 
